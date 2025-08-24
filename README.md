@@ -18,3 +18,11 @@ This project showcases a clean and visually appealing digital menu for a restaur
 ## Technologies Used
 - HTML5
 - CSS3 (custom styling)
+
+## Preview
+
+### Starters & Main Course
+![Menu Screenshot 1](Screenshot1.png)
+
+###  Desserts & Beverages
+![Menu Screenshot 2](Screenshot2.png)
